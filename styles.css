@@ -1,0 +1,19 @@
+.contenedor{
+    padding:9%;  
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+  
+.bottom-left {
+    position: absolute;
+    bottom: 1%;
+    left: 5%;
+}
+.boton {
+    margin-left: 5%;
+    margin-top: 2%;
+}
