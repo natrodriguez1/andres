@@ -1,4 +1,29 @@
-#search{
-    color: red;
-    border-color: red;
-}
+
+.centreo {
+    text-align: center;
+    padding: 1%;
+    color:crimson;
+    -webkit-text-stroke-width: 0.2px;
+    -webkit-text-stroke-color: white;
+    font-family: "Rubik Bubbles", serif;
+  }
+  
+  .navbar{
+    background-color:none;
+  
+  }
+  
+  .yayaya {
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(https://humanidades.com/wp-content/uploads/2017/03/selva-4-e1564611988457.jpg);
+    width: 100%;
+  }
+  
+  .CarouselSI {
+    padding: 5%;
+  }
+  
+  .navbar-brand {
+    
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+  }
